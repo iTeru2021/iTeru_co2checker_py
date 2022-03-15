@@ -1,0 +1,2 @@
+# iTeru_co2checker_py
+会議室のCO2濃度がDBに格納されたのを受けてslack通知を行う関数
